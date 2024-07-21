@@ -1,0 +1,8 @@
+fastapi
+openai
+pydantic
+pymilvus
+Requests
+SQLAlchemy
+uvicorn
+psycopg2-binary
